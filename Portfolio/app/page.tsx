@@ -152,7 +152,7 @@ export default function Page() {
               </button>
             </Link>
             <a 
-              href="/THARUN_RESUME.DOC" 
+              href="/Tharun_P_Resume.docx" 
               download
               className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-medium transition-colors inline-block text-center"
             >
