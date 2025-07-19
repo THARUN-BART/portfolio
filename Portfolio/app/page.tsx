@@ -379,7 +379,7 @@ export default function Page() {
                   { icon: "📧", label: "Email", value: "tharunpoogavanam@gmail.com" },
                   { icon: "📍", label: "Location", value: "Chennai, Tamil Nadu, India" },
                   { icon: "📱", label: "Phone", value: "+91-8778893660" },
-                  { icon: "📄", label: "Resume", value: "THARUN_RESUME.DOC", link: "/THARUN_RESUME.DOC" }
+                  { icon: "📄", label: "Resume", value: "RESUME.DOC", link: "/Tharun_P_Resume.docx" }
                 ].map((contact, index) => (
                   <div key={index} className="flex items-center">
                     <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center mr-4">
